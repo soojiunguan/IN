@@ -1,2 +1,2 @@
-# IN
-Design and configuration of a network infrastructure for Vista Court buildings A and B across two floors
+# Abstract
+This group assignment presents the design and configuration of a network infrastructure for Vista Court buildings A and B across two floors. Using Cisco Packet Tracer and Draw.io, each team member developed detailed network topologies (Ring and Star) for their assigned floor, considering departmental needs, scalability, and fault tolerance. IP addressing was handled using Variable Length Subnet Masking (VLSM) with Class B and Class C IPs to optimize address allocation. The report includes topology justifications, IP tables, and configuration procedures for various end devices. The project fostered collaboration, enhanced technical proficiency, and provided practical experience in planning real-world networking environments.
